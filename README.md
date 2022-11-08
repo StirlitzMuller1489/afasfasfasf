@@ -14,3 +14,4 @@ I=\frac{\Delta q}{\Delta t}
 \sum_{i=1}^{n}\mathrm{I}_{i}^{}\mathrm{R}_{i}^{}=\sum_{i=1}^{n}\mathrm{ℰ}_{i}^{}
 ![абоба](/Users/evgenijmilke/Downloads/lagrida_latex_editor.jpg)
 
+![lagrida_latex_editor](https://user-images.githubusercontent.com/114472400/200514085-c4488a40-8c06-49aa-be90-56a418bd91a0.png)
