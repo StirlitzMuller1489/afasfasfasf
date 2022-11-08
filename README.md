@@ -17,3 +17,4 @@ https://stirlitzmuller1489.wordpress.com/2022/10/25/презентация-на-
    \sum_{i=1}^{n}\mathrm{I}_{i}^{}\mathrm{R}_{i}^{}=\sum_{i=1}^{n}\mathrm{ℰ}_{i}^{}
 
 
+![lagrida_latex_editor](https://user-images.githubusercontent.com/114472400/200516130-8b872c9c-a665-4385-95dc-78ff2b733515.png)
