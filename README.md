@@ -19,10 +19,12 @@ https://stirlitzmuller1489.wordpress.com/2022/10/25/презентация-на-
 
 ![lagrida_latex_editor](https://user-images.githubusercontent.com/114472400/200516130-8b872c9c-a665-4385-95dc-78ff2b733515.png)
 
+
+```mermaid
+
 flowchart LR
-'''mermaid
 A[Hard] -->|Text| B(Round)
-B --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
-'''
+B --> C{игэ трыста баллав}
+C -->|дыа| D[аналитег 500к/мес]
+C -->|нит| E[гозпром цылевик 200к/мес]
+```
